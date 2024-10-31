@@ -7,6 +7,11 @@
 - 😄 Pronouns: ...I and He
 - ⚡ Fun fact: ...Smiling can make you seem more approachable and confident, and can increase your chances of getting hired or promoted.
 
+### RELATED
+[![WhipperEarner?tab=repositories - GitHub](https://gh-card.dev/repos/WhipperEarner?tab=repositories.svg)](https://github.com/WhipperEarner?tab=repositories)
+
+
+
 <!---
 WhipperEarner/WhipperEarner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
